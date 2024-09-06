@@ -1,4 +1,4 @@
-## Que tal um README mais informal e divertido? 
+## Esse projeto foi feito durante a Imersão de HTML - CSS - JAVASCRIPT promovida pela Alura e Google Gemini
 
 **## Busca de Atletas: Encontre seus ídolos esportivos!**
 
@@ -25,7 +25,7 @@ Adoramos receber contribuições! Se você tiver alguma ideia para deixar o site
 Esse projeto é open source, você pode usar e modificar como quiser!
 
 **Autor:**
-[Seu nome] - [Seu email]
+[Flavio Haidar] - [faahaidar@hotmail.com]
 
 **Vamos juntos torcer pelo Brasil! **
 
